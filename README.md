@@ -9,20 +9,22 @@ If it's worth doing twice it's worth automating or streamlining once. I find it 
 
 ## 💡 Ask Me About...
 
+⚡️ My fully automated Movie Tracker and dashboard
+
+⚡️ My Table Crawler Change Detector App
+
+⚡️ My ongoing "Everything Tracker" project to collect a year of in-depth data about myself to see what makes my brain tick
 
 ⚡️ My excessive OneNote notebook and note taking habit
 
-⚡️ My fully automated Movie Tracker and dashboard
-
 ⚡️ My huge AutoHotKey script
-
-⚡️ My ongoing "Everything Tracker" project to collect a year of in-depth data about myself to see what makes my brain tick
 
 ⚡️ Process Automation + streamlining anything and everything
 
 ⚡️ Finishing every single SQL challenge on HackerRank.com
 
 ⚡️ Data Visualisation and Dashboard design
+
 ## 🛠 Skills
 Python, SQL, Tableau, Alteryx, AutoHotKey, Visualisation, Workflow Optimisation
 
