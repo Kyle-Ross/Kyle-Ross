@@ -17,7 +17,7 @@ If it's worth doing twice it's worth automating or streamlining once. I find it 
 
 ⚡️ My excessive OneNote notebook and note taking habit
 
-⚡️ My huge AutoHotKey script
+⚡️ My AutoHotKey script
 
 ⚡️ Process Automation + streamlining anything and everything
 
