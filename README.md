@@ -1,6 +1,6 @@
 
 ## 🚀 Hi, I'm Kyle Ross
-I'm an Analytics Manager who is super passionate about Data Analytics, I just genuinely think it is so cool.
+I'm a Data Analyst who is super passionate about Data Analytics, I just genuinely think it is so cool.
 
 I love using SQL, Python, Alteryx, Tableau (and whatever else I come across) to make my ideas into a reality for myself and my clients.
 
