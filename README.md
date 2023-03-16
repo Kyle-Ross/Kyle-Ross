@@ -11,7 +11,7 @@ If it's worth doing twice it's worth automating or streamlining once. I find it 
 
 ⚡️ My fully automated Movie Tracker and dashboard
 
-⚡️ My Table Crawler Change Detector App
+⚡️ My OpenAI dialogue generator
 
 ⚡️ My ongoing "Everything Tracker" project to collect a year of in-depth data about myself to see what makes my brain tick
 
