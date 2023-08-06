@@ -1,6 +1,6 @@
 ## 🚀 Hi, I'm Kyle Ross
 
-I'm a Business Intelligence Specialist who loves my work. I enjoy taking a problem and working out a repeatable solution using Python and whatever other tool is necessary. My best work is backed with extensive documentation, and ready to be redeployed next time the need arises. I most enjoy the projects that let me lay a foundation for future efficiency in my data career.
+I'm a Business Intelligence Specialist who loves my work. I enjoy taking a problem and working out a repeatable solution using Python and whatever other tool is necessary. My best work is backed with extensive documentation and ready to be quickly redeployed next time the need arises. I most enjoy the projects that let me lay a foundation for future efficiency in my data career.
 
 ## 💡 Some of my projects on Github...
 
