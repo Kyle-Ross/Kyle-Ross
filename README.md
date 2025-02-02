@@ -1,14 +1,10 @@
-## 🚀 Hi, I'm Kyle Ross
+## Hi, I'm Kyle Ross
 
-I'm a Business Intelligence Specialist who loves my work. I enjoy taking a problem and working out a repeatable solution using Python and whatever other tool is necessary. My best work is backed with extensive documentation and ready to be quickly redeployed next time the need arises. I most enjoy the projects that let me lay a foundation for future efficiency in my data career.
+I'm a seasoned Australian Business Intelligence professional who likes to code. I take great satisfaction in solving difficult problems with lasting solutions that everyone can understand. I'm driven to constantly learn, improve and build.
 
-## 💡 Some of my projects on Github...
+You can see some of my projects here on Github, which demonstrate my approach to problems. Feel free to make use of any of it, and I'm always keen to chat if you want to reach out.
 
-⚡️ [Movie Tracker Data Flow](https://github.com/Kyle-Ross/Movie-Tracker-Data-Flow) - Live updated stats on my movie watching habits, through Python, Tableau and the IMDb API
 
-⚡️ [OpenAI dialogue generator](https://github.com/Kyle-Ross/openai-dialogue-generator) - simulate dialogue between imaginary characters with you in the driver's seat
+## Tech Stack
 
-⚡️ [ABS Census Merger](https://github.com/Kyle-Ross/abs-census-merger) - for quick and easy census data prep
-
-## 🛠 Skills (so far)
-Python, SQL, Snowflake, Power BI, DAX, Tableau, OpenAI API integration, Alteryx, AutoHotKey
+Python, SQL, Snowflake, Power BI, DAX, Tableau, OpenAI, Alteryx, AutoHotKey
